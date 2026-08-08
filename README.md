@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Randi 👋
 
 ### Data Analyst | SQL • Excel • Power BI
 
