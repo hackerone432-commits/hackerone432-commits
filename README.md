@@ -125,6 +125,7 @@ into meaningful reports and insights.
 
 ---
 
+
 ### 📈 Power BI Dashboard
 
 Interactive business intelligence dashboards designed to analyze
@@ -171,4 +172,10 @@ Data Visualization
 Business Insights
        ↓
 Recommendations
+```
+---
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moh%20Randi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moh-randi-5a64b93a0/)
+
 
