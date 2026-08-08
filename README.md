@@ -178,4 +178,8 @@ Recommendations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moh%20Randi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moh-randi-5a64b93a0/)
 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hackerone432-commits/hackerone432-commits/snake-output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
